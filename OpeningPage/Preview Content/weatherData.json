@@ -1,0 +1,43 @@
+{
+    coord: {
+        lon: -74.006,
+        lat: 40.7143
+    },
+    weather: [
+        {
+            id: 800,
+            main: "Clear",
+            description: "clear sky",
+            icon: "01n"
+        }
+    ],
+    base: "stations",
+    main: {
+        temp: 295.87,
+        feels_like: 295.84,
+        temp_min: 294.02,
+        temp_max: 297.42,
+        pressure: 1016,
+        humidity: 63
+    },
+    visibility: 10000,
+    wind: {
+        speed: 6.69,
+        deg: 180
+    },
+    clouds: {
+        all: 0
+    },
+    dt: 1657500142,
+    sys: {
+        type: 2,
+        id: 2039034,
+        country: "US",
+        sunrise: 1657445628,
+        sunset: 1657499314
+    },
+    timezone: -14400,
+    id: 5128581,
+    name: "New York",
+    cod: 200
+}
